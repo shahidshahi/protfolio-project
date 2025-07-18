@@ -118,7 +118,7 @@ h2 {
   transition: width 0.6s ease;
 }
 .projects-container {
-  display: grid;
+  display: flex;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
 }
